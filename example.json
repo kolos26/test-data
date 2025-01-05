@@ -1,6 +1,6 @@
 {
     "name": "Example Airlines",
-    "logo": "",
+    "logo": "https://www.geo-fs.com/images/media/logo/icon.png",
     "color": "red",
     "bgcolor": "darkblue",
     "aircrafts": {

@@ -1,6 +1,6 @@
 {
     "name": "Test Airways",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveryselector-logo-small.svg",
     "color": "green",
     "bgcolor": "black",
     "aircrafts": {
