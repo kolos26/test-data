@@ -1,7 +1,7 @@
 {
     "name": "Twilight Corp.",
     "color": "White",
-    "bgcolor": "b7c8588b-0037-e872-b583-0a973b4e2d2cgradient-forms-twilight.png",
+    "bgcolor": "mauve",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -184,12 +184,12 @@
             "name": "Boeing b777-300ER",
             "liveries": [
                 {
-                    "name": "777 Livery",
+                    "name": "Twilight B777-300ER Livery",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://ibb.co/dMGCn96"
+                        "https://i.ibb.co/V92nXyD/777-300-Basic.png"
                     ],
-                    "credits": "Tigerhawk (CEO) Luca B (Designer)"
+                    "credits": "Tigerhawk (CEO) & Luca B (Designer)"
                 }
             ],
             "labels": [
