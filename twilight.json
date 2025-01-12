@@ -1,7 +1,7 @@
 {
     "name": "Twilight Corp.",
     "color": "#FCF3EE",
-    "bgcolor": "mauve",
+    "bgcolor": "#7A4988",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
