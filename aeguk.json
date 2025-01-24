@@ -1,7 +1,7 @@
 {
-    "name": "Austra Airways",
-    "color": "#cf0a0a",
-    "bgcolor": "#ffa62a",
+    "name": "Aeguk Airlines",
+    "color": "red",
+    "bgcolor": "darkblue",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -72,18 +72,10 @@
             "name": "Airbus a380-800",
             "liveries": [
                 {
-                    "name": "Austra Airways (AQ-M8B)",
+                    "name": "Aeguk Airlines",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/4fKWpPz/A-U-S-T-R-A.png"
-                    ],
-                    "credits": "JacobK23"
-                },
-                {
-                    "name": "Austra Airways (AQ-M8G)",
-                    "texture": [
-                        "/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/0jq81yX/A-U-S-T-R-A-1.png"
+                        "https://i.ibb.co/XbV4fL4/Aeguk-Airlines-A380-Livery-1.png"
                     ],
                     "credits": "JacobK23"
                 }
@@ -425,14 +417,6 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
-                {
-                    "name": "Austra Airways (Our First A350 livery - AQ-MXA)",
-                    "texture": [
-                        "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/r6hmsgj/A-U-S-T-R-A.png"
-                    ],
-                    "credits": "JacobK23"
-                }
             ],
             "labels": [
                 "Specular shader",
