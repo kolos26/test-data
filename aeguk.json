@@ -611,6 +611,15 @@
                 "Texture"
             ]
             
+        },
+        "2857": {
+            "name": "Lokheed Martin F22 Raptor",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture",
+                "Metallic Roughness shader"
+            ]
         }
     }
 }

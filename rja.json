@@ -1,7 +1,7 @@
 {
-    "name": "Austra Airways",
-    "color": "#cf0a0a",
-    "bgcolor": "#ffa62a",
+    "name": "Royal Japan Airlines",
+    "color": "",
+    "bgcolor": "",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -31,6 +31,14 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.ibb.co/479L7jq/image.png"
+                    ],
+                    "credits": "Myklischa"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -72,20 +80,20 @@
             "name": "Airbus a380-800",
             "liveries": [
                 {
-                    "name": "Austra Airways (AQ-M8B)",
+                    "name": "Royal Japan Airlines (old logo)",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/4fKWpPz/A-U-S-T-R-A.png"
+                        "https://i.ibb.co/Z6GvhsV/image.png"
                     ],
-                    "credits": "JacobK23"
+                    "credits": "Myklischa"
                 },
                 {
-                    "name": "Austra Airways (AQ-M8G)",
+                    "name": "Royal Japan Airlines (new logo)",
                     "texture": [
                         "/models/aircraft/premium/a380/specular.jpg",
-                        "https://i.ibb.co/0jq81yX/A-U-S-T-R-A-1.png"
+                        "https://i.ibb.co/2n46wXb/image.png"
                     ],
-                    "credits": "JacobK23"
+                    "credits": "Myklischa"
                 }
             ],
             "labels": [
@@ -276,6 +284,13 @@
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "https://i.ibb.co/1vg1Swh/image.png"
+                    ],
+                    "credits": "Myklischa"
+                }
             ],
             "labels": [
                 "Texture"
@@ -292,6 +307,20 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines (grey engine design)",
+                    "texture": [
+                        "https://i.ibb.co/NtkV5KX/image.png"
+                    ],
+                    "credits": "VR Pozz"
+                },
+                {
+                    "name": "Royal Japan Airlines (white engine design)",
+                    "texture": [
+                        "https://i.ibb.co/KDjrz4y/image.png"
+                    ],
+                    "credits": "VR Pozz"
+                }
             ],
             "labels": [
                 "Texture"
@@ -390,6 +419,13 @@
         "2892": {
             "name": "SAAB 340",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "https://i.ibb.co/SvnHPDL/image.png"
+                    ],
+                    "credits": "Myklischa"
+                }
             ],
             "labels": [
                 "Texture"
@@ -426,12 +462,20 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                    "name": "Austra Airways (Our First A350 livery - AQ-MXA)",
+                    "name": "Royal Japan Airlines (unpainted)",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/r6hmsgj/A-U-S-T-R-A.png"
+                        "https://i.ibb.co/sWWDqvQ/image.png"
                     ],
-                    "credits": "JacobK23"
+                    "credits" : "Lego and Avgeek YT"
+                },
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.ibb.co/f9yt445/image.png"
+                    ],
+                    "credits" : "Lego and Avgeek YT"
                 }
             ],
             "labels": [
@@ -482,6 +526,38 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/Lrdbs8V/image.png"
+                    ],
+                    "credits": "Myklischa"
+                },
+                {
+                    "name": "Royal Japan Aircargo",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/speculars/ersf.png",
+                        "https://i.ibb.co/dB2XFCp/image.png"
+                    ],
+                    "credits": "Myklischa"
+                },
+                {
+                    "name": "Royal Japan Airlines (Protect our oceans livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/6sKy479/image.png"
+                    ],
+                    "credits": "Burnin Hell"
+                },
+                {
+                    "name": "Royal Japan Airlines (Low Carbon Emissions livery)",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/8cFP6nL/image.png"
+                    ],
+                    "credits": "Burnin Hell"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -562,6 +638,13 @@
         "2951": {
             "name": "Airbus a340-300",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "https://i.ibb.co/3kqM9HD/image.png"
+                    ],
+                    "credits": "Lego and Avgeek YT"
+                }
             ],
             "labels": [
                 "Texture"
@@ -586,6 +669,13 @@
         "5156": {
             "name": "Airbus a318-112",
             "liveries": [
+                {
+                    "name": "Royal Japan Airlines",
+                    "texture": [
+                        "https://i.ibb.co/NNyyF8v/image.png"
+                    ],
+                    "credits": "Burnin Hell"
+                }
             ],
             "labels": [
                 "Texture"
@@ -623,12 +713,12 @@
             "name": "Boeing b747-8I",
             "liveries": [
                 {
-                    "name": "Austra Cargo (AQ-A7G)",
+                    "name": "Royal Japan Airlines",
                     "texture": [
-                        "https://i.ibb.co/c6GfyGk/image.png",
+                        "https://i.ibb.co/R2v5tk4/image.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                     ],
-                    "credits": "JacobK23"
+                    "credits": "Myklischa"
                 }
             ],
             "labels": [
