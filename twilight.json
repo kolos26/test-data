@@ -548,6 +548,14 @@
                 "Texture",
                 "Metallic Roughness shader"
             ]
+        },
+        "3211": {
+            "name": "UTVA 75",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
