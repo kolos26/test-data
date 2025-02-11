@@ -417,6 +417,13 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+                {
+                    "name": "Aeguk Airlines",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.ibb.co/6Rr56Rn5/HL8619.png"
+                    ]
+                }
             ],
             "labels": [
                 "Specular shader",
