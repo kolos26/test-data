@@ -32,6 +32,16 @@
         "6": {
             "name": "de Havilland Canada DHC6 Twin Otter",
             "liveries": [
+                {
+                    "name": "USAF Academy - D-Day Heritage livery",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dhc6_twinotter/usaf/main.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dhc6_twinotter/usaf/left.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dhc6_twinotter/usaf/bottom.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dhc6_twinotter/usaf/right.jpg"
+                    ],
+                    "credits": "Rick"
+                }
             ],
             "mp": "disabled"
         },
@@ -389,6 +399,67 @@
             "liveries": [
             ]
             
+        },
+        "2808": {
+            "name": "Supermarine Spitfire Mk XIV",
+            "liveries": [
+                {
+                    "name": "Royal Air Force - PL965",
+                    "credits": "Kolos26",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/spitfire/spitfireblue.png",
+                        {
+                            "material": 0
+                        },
+                        {
+                            "material": 1
+                        },
+                        {
+                            "material": 2
+                        },
+                        {
+                            "material": 3
+                        }
+                    ],
+                    "materials": [
+                        {
+                            "name": "Prop Cone",
+                            "baseColorFactor": [
+                                0.0,
+                                0.0,
+                                0.0
+                            ]
+                        },
+                        {
+                            "name": "Wings Red",
+                            "baseColorFactor": [
+                                0.102,
+                                0.392,
+                                0.549
+                            ]
+                        },
+                        {
+                            "name": "Wings Yellow",
+                            "baseColorFactor": [
+                                0.102,
+                                0.392,
+                                0.549
+                            ]
+                        },
+                        {
+                            "name": "Canopy Metal",
+                            "baseColorFactor": [
+                                0.102,
+                                0.392,
+                                0.549
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
 }
 }
