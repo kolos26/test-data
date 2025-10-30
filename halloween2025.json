@@ -628,14 +628,6 @@
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
                     ],
                     "credits": "Raptor4001"
-                },
-                {
-                    "name": "Duo Repa",
-                    "texture": [
-                        "https://i.ibb.co/hJvsm8FM/image.png",
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
-                    ],
-                    "credits": "AusboyX"
                 }
             ],
             "labels": [
@@ -670,6 +662,13 @@
         "5229": {
             "name": "Lokheed Martin F35B Lightning II",
             "liveries": [
+                {
+                    "name": "Duo Repa",
+                    "texture": [
+                        "https://i.ibb.co/hJvsm8FM/image.png"
+                    ],
+                    "credits": "AusboyX"
+                }
             ],
             "labels": [
                 "Texture"
