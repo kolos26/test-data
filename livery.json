@@ -4860,7 +4860,7 @@
             "acid": "11",
             "name": "Alisport Silent 2 Electro"
         },
-        "pilatus": {
+        "pc7": {
             "index": [
                 0,
                 3,
@@ -4956,77 +4956,6 @@
                 "Specular shader",
                 "Texture",
                 "Propwash"
-            ],
-            "logo": true,
-            "acid": "12",
-            "name": "Pilatus PC-7 Mk-I"
-        },
-        "pc7": {
-            "index": [
-                3
-            ],
-            "parts": [
-                0
-            ],
-            "mp": [
-                {
-                    "modelIndex": 1,
-                    "textureIndex": 2
-                }
-            ],
-            "liveries": [
-                {
-                    "name": "Royal Netherlands Air Force",
-                    "credits": "GeoFS",
-                    "texture": [
-                        "/models/aircraft/premium/pc7/texture_0.jpg"
-                    ]
-                },
-                {
-                    "name": "Swiss Air Force (red and white design)",
-                    "credits": "GeoFS",
-                    "texture": [
-                        "/models/aircraft/premium/pc7/texture_1.jpg"
-                    ]
-                },
-                {
-                    "name": "Swiss Air Force (orange design)",
-                    "credits": "GeoFS",
-                    "texture": [
-                        "/models/aircraft/premium/pc7/texture_2.jpg"
-                    ]
-                },
-                {
-                    "name": "Pilatus factory HB-HDI",
-                    "credits": "GeoFS",
-                    "texture": [
-                        "/models/aircraft/premium/pc7/texture_3.jpg"
-                    ]
-                },
-                {
-                    "name": "Royal Air Force",
-                    "credits": "ConvairF2ySeaDart",
-                    "texture": [
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/pilatus_pc7/raftexan.jpeg"
-                    ]
-                },
-                {
-                    "name": "Martini Patrol",
-                    "credits": "Nimbus",
-                    "texture": [
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/pilatus_pc7/Pilatus_PC7_Martini_e1.png"
-                    ]
-                },
-                {
-                    "name": "Royal New Zealand Air Force",
-                    "texture": [
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/pilatus_pc7/pilatusrnzaf.jpg"
-                    ],
-                    "credits": "Raptor4001"
-                }
-            ],
-            "labels": [
-                "Texture"
             ],
             "logo": true,
             "acid": "12",
