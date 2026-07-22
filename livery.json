@@ -3558,6 +3558,7 @@
                 "Texture Right"
             ],
             "logo": false,
+            "acid": "6",
             "name": "de Havilland Canada DHC6 Twin Otter Floatplane"
         },
         "pitts": {
