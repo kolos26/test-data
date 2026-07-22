@@ -802,6 +802,14 @@
         "72e_380019_5519": {
             "name": "Boeing b777-200er",
             "liveries": [
+                {
+                    "name": "British Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/772UALSA.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/British_Airways_777-200ER.png"
+                    ],
+                    "credits": "luca b"
+                }
             ],
             "labels": [
                 "Metallic Roughness shader",
