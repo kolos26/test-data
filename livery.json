@@ -60621,7 +60621,7 @@
                     "credits": "luca b"
                 },
                 {
-                    "name": "Boeing house livery (old design)",
+                    "name": "Boeing house livery (new design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-9x/Boeing_house_livery_N779XW.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-9x/Boeing_house_livery_N779XW.png",
@@ -60951,7 +60951,7 @@
             ],
             "logo": true,
             "acid": "5211",
-            "name": "Boeing 747SP"
+            "name": "Boeing b747SP"
         },
         "tu204_267286_5777": {
             "index": [
@@ -61367,7 +61367,14 @@
             ],
             "liveries": [
                 {
-                    "name": "Placeholder",
+                    "name": "US Air Force",
+                    "texture": [
+                        "/backend/aircraft/repository/A10 II Warthog_310810_2310/LiverComposit.jpg"
+                    ],
+                    "credits": "Eco[LAC]"
+                },
+                {
+                    "name": "Gray",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/a10/PlainBackground.png"
                     ],
@@ -61379,7 +61386,7 @@
             ],
             "logo": true,
             "acid": "2310",
-            "name": "Fairchild A10-C Thunderbolt II"
+            "name": "Fairchild A10-C Thunderbolt II Warthog"
         },
         "airbus a320-214 (Eurowings)_427352_2870": {
             "index": [
@@ -61460,24 +61467,27 @@
             ],
             "liveries": [
                 {
-                    "name": "1 - FedEx",
+                    "name": "FedEx",
                     "texture": [
                         "/models/aircraft/premium/dc10/texture_0.jpg"
                     ],
+                    "alias" : "0",
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "2 - US Air Force",
+                    "name": "US Air Force",
                     "texture": [
                         "/models/aircraft/premium/dc10/texture_1.jpg"
                     ],
+                    "alias" : "1",
                     "credits": "GeoFS"
                 },
                 {
-                    "name": "3 - 10 Air Tanker Carrier",
+                    "name": "10 Air Tanker Carrier",
                     "texture": [
                         "/models/aircraft/premium/dc10/texture_2.jpg"
                     ],
+                    "alias" : "2",
                     "credits": "GeoFS"
                 }
             ],
