@@ -61903,6 +61903,13 @@
                         "/backend/aircraft/repository/BAe 146 Rework_310810_5947/texture_0.jpg"
                     ],
                     "credits": "Eco[LAC]"
+                },
+                {
+                    "name": "Test",
+                    "texture": [
+                        "/backend/aircraft/repository/BAe 146 Rework_310810_5947/texture_1.jpg"
+                    ],
+                    "credits": "Eco[LAC]"
                 }
             ],
             "labels": [
